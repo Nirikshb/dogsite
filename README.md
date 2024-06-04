@@ -1,5 +1,8 @@
 # dogfetchapp
 
+Built using Nuxt 2, Vue 2, Bootstrap
+Have done using computed, emit, props and everything basic you can learn when you pick up vue 2 and nuxt 2 for practice.
+
 ## Build Setup
 
 ```bash
